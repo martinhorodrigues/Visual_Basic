@@ -1,0 +1,18 @@
+c:\users\devin\documents\visual studio 2017\Projects\4-6 Karate_tutorial\4-6 Karate_tutorial\bin\Debug\karate.mdf
+c:\users\devin\documents\visual studio 2017\Projects\4-6 Karate_tutorial\4-6 Karate_tutorial\bin\Debug\karate_log.ldf
+c:\users\devin\documents\visual studio 2017\Projects\4-6 Karate_tutorial\4-6 Karate_tutorial\bin\Debug\4-6 Karate_tutorial.exe.config
+c:\users\devin\documents\visual studio 2017\Projects\4-6 Karate_tutorial\4-6 Karate_tutorial\bin\Debug\4-6 Karate_tutorial.exe
+c:\users\devin\documents\visual studio 2017\Projects\4-6 Karate_tutorial\4-6 Karate_tutorial\bin\Debug\4-6 Karate_tutorial.pdb
+c:\users\devin\documents\visual studio 2017\Projects\4-6 Karate_tutorial\4-6 Karate_tutorial\bin\Debug\4-6 Karate_tutorial.xml
+c:\users\devin\documents\visual studio 2017\Projects\4-6 Karate_tutorial\4-6 Karate_tutorial\obj\Debug\4-6 Karate_tutorial.vbprojResolveAssemblyReference.cache
+c:\users\devin\documents\visual studio 2017\Projects\4-6 Karate_tutorial\4-6 Karate_tutorial\obj\Debug\_4_6_Karate_tutorial.AllMembersForm.resources
+c:\users\devin\documents\visual studio 2017\Projects\4-6 Karate_tutorial\4-6 Karate_tutorial\obj\Debug\_4_6_Karate_tutorial.MainForm.resources
+c:\users\devin\documents\visual studio 2017\Projects\4-6 Karate_tutorial\4-6 Karate_tutorial\obj\Debug\_4_6_Karate_tutorial.Resources.resources
+c:\users\devin\documents\visual studio 2017\Projects\4-6 Karate_tutorial\4-6 Karate_tutorial\obj\Debug\4-6 Karate_tutorial.vbproj.GenerateResource.Cache
+c:\users\devin\documents\visual studio 2017\Projects\4-6 Karate_tutorial\4-6 Karate_tutorial\obj\Debug\4-6 Karate_tutorial.exe
+c:\users\devin\documents\visual studio 2017\Projects\4-6 Karate_tutorial\4-6 Karate_tutorial\obj\Debug\4-6 Karate_tutorial.xml
+c:\users\devin\documents\visual studio 2017\Projects\4-6 Karate_tutorial\4-6 Karate_tutorial\obj\Debug\4-6 Karate_tutorial.pdb
+C:\Users\Devin\documents\visual studio 2017\Projects\4-6 Karate_tutorial\4-6 Karate_tutorial\obj\Debug\_4_6_Karate_tutorial.AddMemberForm.resources
+C:\Users\Devin\documents\visual studio 2017\Projects\4-6 Karate_tutorial\4-6 Karate_tutorial\obj\Debug\_4_6_Karate_tutorial.FindMemberForm.resources
+C:\Users\Devin\documents\visual studio 2017\Projects\4-6 Karate_tutorial\4-6 Karate_tutorial\obj\Debug\_4_6_Karate_tutorial.AllPaymentsForm.resources
+C:\Users\Devin\documents\visual studio 2017\Projects\4-6 Karate_tutorial\4-6 Karate_tutorial\obj\Debug\_4_6_Karate_tutorial.MemberPaymentsForm.resources

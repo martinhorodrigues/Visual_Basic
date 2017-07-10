@@ -1,0 +1,211 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+4-6 Karate_tutorial
+</name>
+</assembly>
+<members>
+<member name="T:_4_6_Karate_tutorial.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:_4_6_Karate_tutorial.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:_4_6_Karate_tutorial.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:_4_6_Karate_tutorial.karateDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:_4_6_Karate_tutorial.karateDataSet.DaysDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:_4_6_Karate_tutorial.karateDataSet.InstructorsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:_4_6_Karate_tutorial.karateDataSet.MembersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:_4_6_Karate_tutorial.karateDataSet.PaymentsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:_4_6_Karate_tutorial.karateDataSet.ScheduleDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:_4_6_Karate_tutorial.karateDataSet.Payments1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:_4_6_Karate_tutorial.karateDataSet.MemberNamesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:_4_6_Karate_tutorial.karateDataSet.DaysRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:_4_6_Karate_tutorial.karateDataSet.InstructorsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:_4_6_Karate_tutorial.karateDataSet.MembersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:_4_6_Karate_tutorial.karateDataSet.PaymentsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:_4_6_Karate_tutorial.karateDataSet.ScheduleRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:_4_6_Karate_tutorial.karateDataSet.Payments1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:_4_6_Karate_tutorial.karateDataSet.MemberNamesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:_4_6_Karate_tutorial.karateDataSet.DaysRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:_4_6_Karate_tutorial.karateDataSet.InstructorsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:_4_6_Karate_tutorial.karateDataSet.MembersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:_4_6_Karate_tutorial.karateDataSet.PaymentsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:_4_6_Karate_tutorial.karateDataSet.ScheduleRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:_4_6_Karate_tutorial.karateDataSet.Payments1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:_4_6_Karate_tutorial.karateDataSet.MemberNamesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:_4_6_Karate_tutorial.karateDataSetTableAdapters.DaysTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:_4_6_Karate_tutorial.karateDataSetTableAdapters.InstructorsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:_4_6_Karate_tutorial.karateDataSetTableAdapters.MembersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:_4_6_Karate_tutorial.karateDataSetTableAdapters.PaymentsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:_4_6_Karate_tutorial.karateDataSetTableAdapters.ScheduleTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:_4_6_Karate_tutorial.karateDataSetTableAdapters.Payments1TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:_4_6_Karate_tutorial.karateDataSetTableAdapters.MemberNamesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:_4_6_Karate_tutorial.karateDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:_4_6_Karate_tutorial.karateDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(_4_6_Karate_tutorial.karateDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:_4_6_Karate_tutorial.karateDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(_4_6_Karate_tutorial.karateDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:_4_6_Karate_tutorial.karateDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(_4_6_Karate_tutorial.karateDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:_4_6_Karate_tutorial.karateDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:_4_6_Karate_tutorial.karateDataSetTableAdapters.TableAdapterManager.UpdateAll(_4_6_Karate_tutorial.karateDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:_4_6_Karate_tutorial.karateDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:_4_6_Karate_tutorial.karateDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
